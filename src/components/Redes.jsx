@@ -6,7 +6,7 @@ const Button = () => {
         <StyledWrapper>
         <div className="main">
             <div className="up">
-                <a href="https://wa.link/3f8ze0" target="_blank" rel="noopener noreferrer">
+                <a href="https://wa.link/rbaquu" target="_blank" rel="noopener noreferrer">
                     <button className="card1">
                         <svg 
                             className="whatsapp" 
