@@ -54,12 +54,14 @@ const Hero = () => {
                     </motion.p>
                 </div>
             </div>
-            <div className='w-full h-full absolute inset-0'>
-                <div className='w-full h-full'>
+            <div className='w-full h-full absolute inset-0 mt-20 flex justify-center'>
+                <div className='max-w-4xl w-full h-full'>
                     <ComputerCanvas/>
                 </div>
             </div>
-            <Button/>
+            <div className='mt-20'>
+                <Button/>
+            </div>
         </section>
     )
 }

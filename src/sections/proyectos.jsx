@@ -157,7 +157,7 @@ const Proyectos = () => {
                 
                 {/* Contenedor personalizado para los puntos */}
                 <div className="fixed bottom-2 sm:bottom-4 left-0 right-0 z-50">
-                    <div className="mx-auto max-w-[150px] sm:max-w-[200px] px-3 py-1 sm:px-4 sm:py-2 rounded-full bg-gray-800/50 backdrop-blur-sm">
+                    <div className="mx-auto max-w-[150px] sm:max-w-[200px] px-3 py-1 sm:px-4 sm:py-2 rounded-full bg-gray-800/50 backdrop-blur-sm fixed top-0 left-0">
                         <div className="swiper-pagination !static flex justify-center items-center gap-1 sm:gap-2"></div>
                     </div>
                 </div>
